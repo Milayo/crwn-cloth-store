@@ -112,22 +112,22 @@ const SHOP_DATA = [
           {
             id: 15,
             name: 'Nike Brown High Tops',
-            // imageUrl: 'https://i.ibb.co/fMTV342/nike-brown.png',
-            imageUrl: "/images/shop-img/sneakers/nike-brown.png",
+            imageUrl: 'https://i.ibb.co/fMTV342/nike-brown.png',
+            //imageUrl: "/images/shop-img/sneakers/nike-brown.png",
             price: 160
           },
           {
             id: 16,
             name: 'Air Jordan Limited',
-            // imageUrl: 'https://i.ibb.co/w4k6Ws9/nike-funky.png',
-            imageUrl: "/images/shop-img/sneakers/nike-funky.png",
+            imageUrl: 'https://i.ibb.co/w4k6Ws9/nike-funky.png',
+            //imageUrl: "/images/shop-img/sneakers/nike-funky.png",
             price: 190
           },
           {
             id: 17,
             name: 'Timberlands',
-            // imageUrl: 'https://i.ibb.co/Mhh6wBg/timberlands.png',
-            imageUrl: "/images/shop-img/sneakers/timberlands.png",
+            imageUrl: 'https://i.ibb.co/Mhh6wBg/timberlands.png',
+            //imageUrl: "/images/shop-img/sneakers/timberlands.png",
             price: 200
           }
         ]
@@ -140,36 +140,36 @@ const SHOP_DATA = [
           {
             id: 18,
             name: 'Black Jean Shearling',
-            // imageUrl: 'https://i.ibb.co/XzcwL5s/black-shearling.png',
-            imageUrl: "/images/shop-img/jackets/black-shearling.png",
+            imageUrl: 'https://i.ibb.co/XzcwL5s/black-shearling.png',
+            //imageUrl: "/images/shop-img/jackets/black-shearling.png",
             price: 125
           },
           {
             id: 19,
             name: 'Blue Jean Jacket',
-            // imageUrl: 'https://i.ibb.co/mJS6vz0/blue-jean-jacket.png',
-            imageUrl: "/images/shop-img/jackets/blue-jean-jacket.png",
+            imageUrl: 'https://i.ibb.co/mJS6vz0/blue-jean-jacket.png',
+            //imageUrl: "/images/shop-img/jackets/blue-jean-jacket.png",
             price: 90
           },
           {
             id: 20,
             name: 'Grey Jean Jacket',
-            // imageUrl: 'https://i.ibb.co/N71k1ML/grey-jean-jacket.png',
-            imageUrl: "/images/shop-img/jackets/grey-jean-jacket.png",
+            imageUrl: 'https://i.ibb.co/N71k1ML/grey-jean-jacket.png',
+            //imageUrl: "/images/shop-img/jackets/grey-jean-jacket.png",
             price: 90
           },
           {
             id: 21,
             name: 'Brown Shearling',
-            // imageUrl: 'https://i.ibb.co/s96FpdP/brown-shearling.png',
-            imageUrl: "/images/shop-img/jackets/brown-shearling.png",
+            imageUrl: 'https://i.ibb.co/s96FpdP/brown-shearling.png',
+            //imageUrl: "/images/shop-img/jackets/brown-shearling.png",
             price: 165
           },
           {
             id: 22,
             name: 'Tan Trench',
-            // imageUrl: 'https://i.ibb.co/M6hHc3F/brown-trench.png',
-            imageUrl: "/images/shop-img/jackets/brown-trench.png",
+            imageUrl: 'https://i.ibb.co/M6hHc3F/brown-trench.png',
+            //imageUrl: "/images/shop-img/jackets/brown-trench.png",
             price: 185
           }
         ]
@@ -182,8 +182,8 @@ const SHOP_DATA = [
           {
             id: 23,
             name: 'Blue Tanktop',
-            // imageUrl: 'https://i.ibb.co/7CQVJNm/blue-tank.png',
-            imageUrl: "/images/shop-img/womens/blue-tank.png",
+            imageUrl: 'https://i.ibb.co/7CQVJNm/blue-tank.png',
+            //imageUrl: "/images/shop-img/womens/blue-tank.png",
             price: 25
           },
           {
